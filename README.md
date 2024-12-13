@@ -2,6 +2,20 @@
 
 XBEAR Network is a mining application that allows users to mine XBEAR tokens and exchange them for USDT.
 
+## 🔒 Security & Safety
+
+[![VirusTotal Scan](https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-success)](https://www.virustotal.com/gui/file/cbf5cd5803bce8c24b8f3306a3d9ab7269bdc55a09e58c1f3c9d723beb86c42b)
+
+**VirusTotal Analysis:**
+- File Hash: `cbf5cd5803bce8c24b8f3306a3d9ab7269bdc55a09e58c1f3c9d723beb86c42b`
+- Scan Results: 0/71 detections
+- Direct Link: [View Full Scan Results](https://www.virustotal.com/gui/file/cbf5cd5803bce8c24b8f3306a3d9ab7269bdc55a09e58c1f3c9d723beb86c42b)
+
+Additional Security Features:
+- All data is encrypted using industry-standard encryption
+- Your mining progress and balance are securely stored locally
+- Transparent, Python-based open source code
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -60,11 +74,6 @@ No manual installation of packages is needed - the program handles everything au
 - Python 3.x or higher
 - Internet connection for package installation
 - Administrative privileges may be required for package installation
-
-## 🔒 Security
-
-- Your mining progress and balance are securely stored locally
-- All data is encrypted using industry-standard encryption
 
 ## 📝 Notes
 
